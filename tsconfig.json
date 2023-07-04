@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src", "themes"],
+  "include": ["src", "themes", "src/layouts/DefaultLayout"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
